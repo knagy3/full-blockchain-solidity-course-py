@@ -136,7 +136,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 ## Miscellaneous 
 - [DAOs](https://www.investopedia.com/tech/what-dao/)
 # Lesson 1: [Welcome to Remix! Simple Storage](https://github.com/PatrickAlphaC/simple_storage)
-💻 Code: https://github.com/PatrickAlphaC/simple_storage
+💻 Code: https://github.com/knagy3/simple_storage
 ### Everything in this section can be read about in the [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/index.html)
 ### [Remix](https://remix.ethereum.org/)
 ### Basic Solidity
