@@ -175,7 +175,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 - Deploy a Contract From a Contract
 - Interact With a Deployed Contract
 - Recap
-# Lesson 3: [Fund Me](https://github.com/PatrickAlphaC/fund_me)
+# Lesson 3: [Fund Me](https://github.com/knagy3/fund_me)
 💻 Code: https://github.com/PatrickAlphaC/fund_me
 ### Payable, msg.sender, msg.value, Units of Measure
 - Payable
